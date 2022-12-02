@@ -2,3 +2,31 @@ body {
     background: #f0ffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+h1 {
+    text-align: center;
+}
+
+p#contact {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+dt {
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+dd {
+    line-height: 2.5;
+}
+
+dd.date {
+    font-style: italic;
+}
+
